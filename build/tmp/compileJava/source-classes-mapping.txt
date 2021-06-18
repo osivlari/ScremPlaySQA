@@ -1,0 +1,34 @@
+com/advantageonlineshopping/userinterfaces/OderPayment.java
+ com.advantageonlineshopping.userinterfaces.OderPayment
+com/advantageonlineshopping/userinterfaces/LaptopPage.java
+ com.advantageonlineshopping.userinterfaces.LaptopPage
+com/advantageonlineshopping/tasks/SelectLaptop.java
+ com.advantageonlineshopping.tasks.SelectLaptop
+com/advantageonlineshopping/userinterfaces/ListShoppingPage.java
+ com.advantageonlineshopping.userinterfaces.ListShoppingPage
+com/advantageonlineshopping/tasks/SelectProduct.java
+ com.advantageonlineshopping.tasks.SelectProduct
+com/advantageonlineshopping/userinterfaces/LaptopProductsPage.java
+ com.advantageonlineshopping.userinterfaces.LaptopProductsPage
+com/advantageonlineshopping/tasks/ListCart.java
+ com.advantageonlineshopping.tasks.ListCart
+com/advantageonlineshopping/interactions/Compare.java
+ com.advantageonlineshopping.interactions.Compare
+com/advantageonlineshopping/interactions/Save.java
+ com.advantageonlineshopping.interactions.Save
+com/advantageonlineshopping/questions/NameLapot.java
+ com.advantageonlineshopping.questions.NameLapot
+com/advantageonlineshopping/tasks/SelectPayOrder.java
+ com.advantageonlineshopping.tasks.SelectPayOrder
+com/advantageonlineshopping/questions/Validate.java
+ com.advantageonlineshopping.questions.Validate
+com/advantageonlineshopping/userinterfaces/ResulSearchPage.java
+ com.advantageonlineshopping.userinterfaces.ResulSearchPage
+com/advantageonlineshopping/tasks/Login.java
+ com.advantageonlineshopping.tasks.Login
+com/advantageonlineshopping/tasks/OpenTheBrowser.java
+ com.advantageonlineshopping.tasks.OpenTheBrowser
+com/advantageonlineshopping/userinterfaces/HomePage.java
+ com.advantageonlineshopping.userinterfaces.HomePage
+com/advantageonlineshopping/tasks/Search.java
+ com.advantageonlineshopping.tasks.Search
